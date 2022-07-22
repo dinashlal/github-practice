@@ -1,0 +1,18 @@
+.clearfix {
+    clear: both;
+}
+
+.column2 {
+    float: left; 
+    width: 50%;
+}
+
+.column3 {
+    float: left; 
+    width: 33.3%; 
+}
+
+.column4 { 
+    float: left; 
+    width: 25%; 
+}
